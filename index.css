@@ -1,0 +1,59 @@
+section{
+      font-family: "Rubik", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+    }
+    .top-section{
+    }
+    section{
+        height: 500px;
+    }
+    .half-width{
+        width: 35%;
+        float: left;
+        margin-left: 15%;
+    }
+    span{
+        color: orangered
+    }
+    .button{
+        text-decoration: none;
+        background-color: blue;
+        padding: 5px;
+        color: white;
+        border-radius: 5px;
+        box-shadow: 5px 5px 5px gray;
+        background-image: linear-gradient(orange,blue);
+    }
+    .half-width img{
+        width: 60%;
+    }
+    .Experinces-Part{
+        background-color: whitesmoke;
+        padding: 40px;
+    }
+.Lastet{
+        margin-left: 35%;
+    }
+
+.Done-Project-section{
+    background-color: white;
+    width: 28%;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px;
+    float: left;
+    margin-left: 30px;
+}    
+.Done-Project-section img{
+    width: 100%;
+}
+.core-part{
+    background-image: url(shapes/Group_33094_1.png);
+}
+.last-half-width{
+    width: 35%;
+    float: left;
+    margin-left: 15%;
+}
